@@ -28,10 +28,10 @@ def is_valid_age(age):
     return age.isdigit() and 0 < int(age) < 120
 
 def is_valid_contact(contact):
-    return bool(re.match("^\n{10}$", contact))
+    return bool(re.match("^\d{10}$", contact))
 
 def is_valid_aadhar(aadhar):
-    return bool(re.match("^\n{12}$", aadhar))
+    return bool(re.match("^\d{12}$", aadhar))
 
 def generate_otp():
     return random.randint(100000, 999999)
