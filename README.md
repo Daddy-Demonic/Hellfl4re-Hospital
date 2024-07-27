@@ -61,8 +61,8 @@ Sagar Vats - https://www.linkedin.com/sagar-vats-51bbb5252/
 
 Harshita - https://www.linkedin.com/in/harshita-pushti-0b9b00302/
 
-Email at - softwarespartans69@gmail.com
-
 Pranav - https://www.linkedin.com/in/pranav-vats-57628a278/
+
+Email at - softwarespartans69@gmail.com
 
 This project has been submitted under FOSS HACK 2024 hackathon submission and here's the respective link directed to this project - https://fossunited.org/hack/fosshack24/p/5acfj6m6e8
