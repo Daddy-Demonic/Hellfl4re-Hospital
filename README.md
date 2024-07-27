@@ -8,16 +8,16 @@ This repository definitely contains data entries of patient information. The REA
 
 => Installation:
 Clone the repository: 'https://fossunited.org/hack/fosshack24/p/5acfj6m6e8'
-Download: "Hellfl4re-hospital.exe"
+Download: "Hellfl4re-hospital.exe" 
 Open the file.
 
 => Usage:
-Open the .exe file on your device 
+Open the .exe file on your device.
 Fill in the patient's information, including the medications and diseases.
 You can also update the patient's data.
 
 => Technology Stack:
-Pyinstaller
+Pyinstaller and
 Python 
 
 => Contributing:
@@ -29,17 +29,17 @@ To report any issues regarding the project, please use our GitHub repository to 
 
 => Patient Demographics:
  The dataset includes the following variables:
- Name- Patient's name 
- Age
- gender
- contact 
- Address
- Guardian
- Aadhar identification number - twelve digits.
+ Patient's name, 
+ Age,
+ gender,
+ contact, 
+ Address,
+ Guardian and
+ Aadhar identification number - should have at least twelve digits.
 
 => Medical History:
- Diseases
- Medications
+ Diseases,
+ Medications and
  Current doctor
 
 => Data Entry Process: The data can be entered in the Excel file. The data entry process involves manual entry.
@@ -49,8 +49,21 @@ This dataset is intended for analysis and research. Users are free to share and 
 
 => Contact Information:
 For questions or concerns about the dataset, please contact :
-GitHub= Daddy-Demonic, Lusifer2602, snow456931
-LinkedIn= https://www.linkedin.com/sagar-vats-51bbb5252/
+GitHub= Daddy-Demonic, Lusifer2602, snow456931.
+LinkedIn= https://www.linkedin.com/sagar-vats-51bbb5252/ 
+
+
+
+
+
+
 https://www.linkedin.com/in/harshita-pushti-0b9b00302/
+
+
+
+
+
+
+
 https://www.linkedin.com/in/pranav-vats-57628a278/
 
