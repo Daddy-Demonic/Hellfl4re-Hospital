@@ -6,7 +6,7 @@ A health- Entry-Database file
 This repository definitely contains data entries of patient information. The README file clearly outlines the data, data entry process, and usage guidelines
 
 
-+> Installation:
+=> Installation:
 Clone the repository: 'https://fossunited.org/hack/fosshack24/p/5acfj6m6e8'
 Download: "Hellfl4re-hospital.exe"
 Open the file.
