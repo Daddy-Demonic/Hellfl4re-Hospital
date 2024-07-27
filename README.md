@@ -49,7 +49,7 @@ This dataset is intended for analysis and research. Users are free to share and 
 
 => Contact Information:
 For questions or concerns about the dataset, please contact :
-GitHub= Daddy-Demonic, Lusifer2602, Snow456931
+GitHub= Daddy-Demonic, Lusifer2602, snow456931
 LinkedIn= https://www.linkedin.com/sagar-vats-51bbb5252/
 https://www.linkedin.com/in/harshita-pushti-0b9b00302/
 https://www.linkedin.com/in/pranav-vats-57628a278/
